@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vidu1", "vidu1\vidu1.pyproj", "{23198427-4E3A-475A-B573-F5900D09986E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mang1chieu", "mang1chieu\mang1chieu.pyproj", "{1A1EB2F3-8EB2-4B42-B3F8-24BD5EA74322}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vonglapfor", "vonglapfor\vonglapfor.pyproj", "{F03A1B3B-A37A-4043-B6CA-F6A46B285766}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vonglapwhile", "vonglapwhile\vonglapwhile.pyproj", "{2DC22C09-F356-4E7F-BB5D-001D4DF6B008}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "phuongtrinhbac2", "phuongtrinhbac2\phuongtrinhbac2.pyproj", "{E0B417C8-A6B1-46D8-A063-EF8DC9B5C982}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BTVeNha", "BTVeNha\BTVeNha.pyproj", "{4749DF54-17B4-42B6-B22D-BE4A76CEBBDE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mang2chieu", "mang2chieu\mang2chieu.pyproj", "{70CFD8B4-D071-48DD-A478-C092BE3BB632}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ma_tran_ke_do_thi_vo_huong", "ma_tran_ke_do_thi_vo_huong\ma_tran_ke_do_thi_vo_huong.pyproj", "{157805F6-C3EC-4479-90FC-61EB151BA2DC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "duyet_theo_chieu_sau", "duyet_theo_chieu_sau\duyet_theo_chieu_sau.pyproj", "{EBC02DA8-01DA-4212-957B-3CD018F97DE3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "duyet_split", "duyet_split\duyet_split.pyproj", "{43A78011-A782-4C84-A888-BE2E98E4AD1F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication1", "PythonApplication1\PythonApplication1.pyproj", "{DF5053E0-FD3D-42AE-9093-3CD300370C54}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Breadth_First_Search", "Breadth_First_Search\Breadth_First_Search.pyproj", "{862C7656-61E4-4BA5-BD0D-D20D86CA3413}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Detph_First_Search", "Detph_First_Search\Detph_First_Search.pyproj", "{81CF2E00-8467-4209-B813-E8F399679FC9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Algorithin_for_tree", "Algorithin_for_tree\Algorithin_for_tree.pyproj", "{3B5DC465-8B71-4F88-A0F8-55E6B505A19F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "THAPHANOI", "THAPHANOI\THAPHANOI.pyproj", "{83EFA0EC-DDD6-46BE-9414-F31A41ABFB77}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "THAPHANOI3DIA", "THAPHANOI3DIA\THAPHANOI3DIA.pyproj", "{83292421-88E3-4EBA-8A84-0A0EB1F268C3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Thaphanoinhap", "Thaphanoinhap\Thaphanoinhap.pyproj", "{818979D0-C7D2-44BC-9CB6-7C2222D0EA6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23198427-4E3A-475A-B573-F5900D09986E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23198427-4E3A-475A-B573-F5900D09986E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1EB2F3-8EB2-4B42-B3F8-24BD5EA74322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1EB2F3-8EB2-4B42-B3F8-24BD5EA74322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03A1B3B-A37A-4043-B6CA-F6A46B285766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03A1B3B-A37A-4043-B6CA-F6A46B285766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC22C09-F356-4E7F-BB5D-001D4DF6B008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC22C09-F356-4E7F-BB5D-001D4DF6B008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B417C8-A6B1-46D8-A063-EF8DC9B5C982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B417C8-A6B1-46D8-A063-EF8DC9B5C982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4749DF54-17B4-42B6-B22D-BE4A76CEBBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4749DF54-17B4-42B6-B22D-BE4A76CEBBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CFD8B4-D071-48DD-A478-C092BE3BB632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CFD8B4-D071-48DD-A478-C092BE3BB632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157805F6-C3EC-4479-90FC-61EB151BA2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157805F6-C3EC-4479-90FC-61EB151BA2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC02DA8-01DA-4212-957B-3CD018F97DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC02DA8-01DA-4212-957B-3CD018F97DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A78011-A782-4C84-A888-BE2E98E4AD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A78011-A782-4C84-A888-BE2E98E4AD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5053E0-FD3D-42AE-9093-3CD300370C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5053E0-FD3D-42AE-9093-3CD300370C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862C7656-61E4-4BA5-BD0D-D20D86CA3413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862C7656-61E4-4BA5-BD0D-D20D86CA3413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81CF2E00-8467-4209-B813-E8F399679FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81CF2E00-8467-4209-B813-E8F399679FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5DC465-8B71-4F88-A0F8-55E6B505A19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5DC465-8B71-4F88-A0F8-55E6B505A19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EFA0EC-DDD6-46BE-9414-F31A41ABFB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EFA0EC-DDD6-46BE-9414-F31A41ABFB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83292421-88E3-4EBA-8A84-0A0EB1F268C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83292421-88E3-4EBA-8A84-0A0EB1F268C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818979D0-C7D2-44BC-9CB6-7C2222D0EA6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818979D0-C7D2-44BC-9CB6-7C2222D0EA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1FDA07D-B650-47C8-A6D4-C1EBDDC16229}
+	EndGlobalSection
+EndGlobal
